@@ -1,4 +1,4 @@
-# Object-Detection-using-GoogleLeNet
+# Object-Classifier-using-GoogleLeNet
 
 ### Python script that can be used to classify input images using OpenCV and GoogLeNet (pre-trained on ImageNet) using the Caffe framework.
 
